@@ -75,11 +75,11 @@ button:active{
 
 
 a:nth-child(2){
-    opacity: .4;
+    opacity: 0.4;
 }
 
 a:hover{
-    opacity: .4;
+    opacity: 0.4;
 }
 
 a:active{
